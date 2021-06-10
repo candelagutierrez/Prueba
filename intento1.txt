@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 GitHub es una pltaforma colaborativa
+=======
+txt es una extension para archivos de texto plano
+>>>>>>> 3ca47becf66bcf42b9f42f68fc78bd54fc22e42e
