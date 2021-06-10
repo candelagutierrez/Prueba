@@ -1,0 +1,5 @@
+Hola Cande y Meli, este mensaje forma parte del punto 9 del ejercicio de la clase 5. 
+Creando archivos nueovs con libertad, intentando generar nuevos conflictos. 
+Repasando el material del Playground, me di cuenta que ayer obviamos un paso:
+borrar del archivo "intento1" donde se habiía generado el conflicto, los mensajes de error que genera GIT. 
+Por eso lo modifique hoy. 
