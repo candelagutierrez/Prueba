@@ -1,0 +1,1 @@
+txt es una extension para archivos de texto plano
